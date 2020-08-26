@@ -1,4 +1,4 @@
-# Live Timer - Show running Timer based on the current Time
+# Live Timer - Show Live Timer based on the current Time
 I have developed a Live Timer which will run based on the current Time in Swift.
 
 <p align="center">
