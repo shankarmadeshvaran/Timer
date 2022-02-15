@@ -12,5 +12,5 @@ This project is updated for Swift 5 and Xcode 11+ .
 I have put an detailed article on Developing Live Timer based on the current Time in Swift on Medium.
 
 ## More Updates
-Follow me on [LinkedIn](https://linkedin.com/in/shankar-mathesh) or [Twitter](https://twitter.com/Shankar__am) to get the latest update about features, code and more. 
+Follow me on [LinkedIn](https://linkedin.com/in/shankar-mathesh) or [Twitter](https://twitter.com/devinmaking) to get the latest update about features, code and more. 
 
